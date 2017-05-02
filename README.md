@@ -26,8 +26,16 @@ Description: You are in a room and you need a flashlight and medicine to leave t
 collapse. You need to find missing parts to assemble flashlight.
 
 Locked Door: Key is in bedroom and is needed to go to bathroom.
+
+
 Hidden Object: Medicine is hidden in a box.
+
+
 Incomplete Object: Flashlight is incomplete. Need battery, bulb which can be found in rooms.
+
+
 Limited Resources: Need medicine to complete the game and exit.
+
+
 
 Screenshot can be found in Part Two folder.
